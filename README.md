@@ -44,13 +44,6 @@ Some featured projects include:
 
 ---
 
-## 📸 Preview
-
-![Portfolio Screenshot](https://ani-portfolio-qk2b.vercel.app/preview.png)  
-*(Replace with an actual screenshot of your site hosted locally or online)*
-
----
-
 ## 📄 Resume
 
 You can view or download my resume from the portfolio itself.
